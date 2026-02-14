@@ -1,4 +1,4 @@
-# CodeAlpha-HangmanGame
+# CodeAlpha_HangmanGame
 A simple and interactive console-based Hangman Game built using Python as part of my Python Development Internship at CodeAlpha.
 
 📌 About The Project
